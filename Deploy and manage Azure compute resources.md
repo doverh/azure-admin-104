@@ -2,6 +2,17 @@
 
 ## Automate deployment of resources by using Azure Resource Manager (ARM) templates or Bicep files
 
+### Benefits
+
+- You can *deploy, manage, and monitor all the resources for your solution as a group*.
+Resources can be deployed to any new or existing resource group. Deployment of resources to a resource group becomes a job where you can track the template execution.
+- You can repeatedly *deploy your solution throughout the development lifecycle*
+- You can manage your infrastructure through *declarative templates* rather than scripts.
+- You can *define the Ídependencies between resources* so they're deployed in the correct order.
+- You can apply access control to all services in your resource group because *Role-Based Access Control (RBAC)* is natively integrated into the management platform.
+- You can *apply tags to resources to logically organize all the resources in your subscription*.
+- You can *clarify your organization's billing by viewing costs for a group of resources sharing the same tag*.
+
 Interpret an Azure Resource Manager template or a Bicep file
 
 Modify an existing Azure Resource Manager template

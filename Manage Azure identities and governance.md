@@ -2,6 +2,10 @@
 
 ## Manage Microsoft Entra users and groups
 
+Identiti provided that speaks cloud. Graph is used to interact. Internal network uses active directory(kerberos , LDAP). Entra uses OAUTH , OIDC, SAML.
+
+Organization has a particular TENANT.
+
 Create users and groups
 
 Manage user and group properties
